@@ -10,7 +10,7 @@ Eslint + Prettier + React
 </h3>
 
 
-## :rocket: Technologias
+## :rocket: Tecnologias
 
 - [React](https://reactjs.org/)
 - [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://editorconfig.org/), [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/).
